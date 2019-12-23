@@ -1,0 +1,196 @@
+html {
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h4,
+h6,
+div,
+span {
+    font-family: PingFangSC-Regular, sans-serif, Microsoft JhengHei;
+}
+
+.navbar-brand img {
+    height: 100px;
+}
+
+.aaa {
+    background-color: #003C9D;
+}
+
+@media (min-width: 768px) {
+    /*nav選單*/
+    .navbar {
+        color: #003C9D;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}
+
+.jumbotron {
+    margin-top: 150px;
+    padding: 0px;
+}
+
+.nav-item {
+    margin-left: 15px;
+    font-size: 1.5vw;
+    letter-spacing: 0.5vw;
+    list-style: none;
+}
+
+.navb {
+    padding-top: 45px;
+}
+
+.navc {
+    padding-top: 70px;
+    color: #ffffff;
+}
+
+.navd {
+    padding-top: 70px;
+}
+
+.nave {
+    padding-top: 70px;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.banner {
+    margin-top: 25px;
+}
+
+.banner .container-fluid {
+    padding: 0;
+}
+
+.about {
+    padding: 100px 0;
+    background: linear-gradient(#ffffff, #F0E5DE);
+}
+
+.about img {
+    box-shadow: 2px 2px 4px;
+}
+
+.title {
+    font-weight: bold;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.lat {
+    margin-left: 90px;
+    margin-top: -85px;
+}
+
+.title_line {
+    border-color: #ffffff;
+}
+
+.story {
+    padding: 50px 0;
+    font-size: 18px;
+}
+
+.story span {
+    font-style: italic;
+    font-size: 20px;
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.title_line {
+    margin-bottom: 50px;
+}
+
+.product {
+    background-color: #ffffff;
+    margin-top: 10px;
+}
+
+.product img {
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.product p {
+    font-size: 2vw;
+}
+
+.form input {
+    height: 40px;
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 0px;
+    padding: 12px;
+    resize: vertical;
+    color: #000000;
+    margin: 7.5px 0;
+}
+
+.form textarea {
+    height: 200px;
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 0px;
+    padding: 12px;
+    resize: vertical;
+    color: #000000;
+    margin: 7.5px 0;
+}
+
+footer {
+    background-color: #223577;
+    margin-top: 50px;
+    padding: 40px 0;
+}
+
+.footg {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.foota {
+    margin-top: 10px;
+    margin-right: 60px;
+}
+
+.footb {
+    margin-top: 10px;
+    margin-right: 60px;
+}
+
+.footc {
+    margin-top: 10px;
+    margin-left: 500px;
+}
+
+.footd {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.foote {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+footer p {
+    line-height: 39px;
+}
